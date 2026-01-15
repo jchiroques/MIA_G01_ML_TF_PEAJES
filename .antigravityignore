@@ -1,5 +1,0 @@
-# .antigravityignore
-data/
-models/
-*.csv
-*.pkl
